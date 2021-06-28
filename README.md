@@ -13,7 +13,5 @@ Assuming our significance level was the common 0.05 percent, our p-value is abov
 
 ## Study Design: MechaCar vs Competition.
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-
 To determine how MechaCar stands up to the competition, the recommendation would be to study cost, fuel efficiency, safety ratings, HP, and AWD. Using random samples. Utilizing a null hypothesis indicating the two competitors are statistically similar. T-tests would be enlisted to test the hypothesis due to it's ease of use. Similar data from MechaCar and the competitors would be used, like the testing above. The variables would change. 
 
